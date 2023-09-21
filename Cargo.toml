@@ -1,0 +1,10 @@
+[package]
+name = "bitflip"
+version = "0.1.0"
+edition = "2021"
+description = "Provides functions to generate bitflips of binary and UTF-8 strings."
+keywords = ["bitflip", "blip", "bitflips", "bitflip", "bitsquatting"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/rustfoundation/bitflip-rs"
+
+[dependencies]
